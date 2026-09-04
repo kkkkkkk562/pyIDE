@@ -1,0 +1,1 @@
+# Chaquopy keeps the embedded Python modules reachable by name.
